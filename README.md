@@ -1,0 +1,1 @@
+# aws-appstream-2.0
